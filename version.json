@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.0.5/Tagasulat_Setup.exe",
-  "notes": "Registration, password reset, cloud recovery, onboarding"
+  "version": "1.0.6",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.0.6/Tagasulat_Setup.exe",
+  "notes": "Canceled order bug fix, session isolation, blacklist, unarranged orders carry over."
 }
