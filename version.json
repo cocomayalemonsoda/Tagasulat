@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.0/Tagasulat_Setup_1.1.0.exe",
-  "notes": "Bug fixes, Cloud restore, Sweldo app link"
+  "version": "1.1.1",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.1/Tagasulat_Setup_1.1.1.exe",
+  "notes": "Bug fixes, pin_listener and tagasulat_sync hotswap, Sweldo app quota update"
 }
