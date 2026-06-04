@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.1/Tagasulat_Setup_1.1.1.exe",
-  "notes": "Bug fixes, pin_listener and tagasulat_sync hotswap, Sweldo app quota update"
+  "version": "1.1.2",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.2/Tagasulat_Setup_1.1.2.exe",
+  "notes": "Bug fixes, all orders checkbox parsing fix, Auto Print on Pin, old-new-joy miner visuals"
 }
