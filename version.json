@@ -1,5 +1,5 @@
 {
-  "version": "1.1.52",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.52/Tagasulat_Setup_1.1.52.exe",
-  "notes": "Quickfix for joy miner tagging. Light mode UI corrections."
+  "version": "1.1.53",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.53/Tagasulat_Setup_1.1.53.exe",
+  "notes": "Quickfix: price sync, relive-as-joy-miner, redeemable flags, pill-on-cancel"
 }
