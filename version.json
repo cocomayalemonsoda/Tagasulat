@@ -1,5 +1,5 @@
 {
-  "version": "1.1.56",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.56/Tagasulat_Setup_1.1.56.exe",
-  "notes": "Adds a new-customer item limit and Do Not Ship region warnings on waybills, plus fixes so After-Live reliably saves every session."
+  "version": "1.1.57",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.57/Tagasulat_Setup_1.1.57.exe",
+  "notes": "Fixes the new-customer limit (now applies instantly), buyers wrongly turning OLD after a restart, and deleted joy miners coming back. Idle alert now defaults to 60 minutes."
 }
