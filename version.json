@@ -1,5 +1,5 @@
 {
-  "version": "1.1.58",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.58/Tagasulat_Setup_1.1.58.exe",
-  "notes": "Quickfix for 1.1.57, Punyetas in toast banner"
+  "version": "1.1.59",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.59/Tagasulat_Setup_1.1.59.exe",
+  "notes": "Reliable session-end sync, plus fixes for changing the price mid auto-print and for arranged buyers who mine again."
 }
