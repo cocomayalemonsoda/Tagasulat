@@ -1,5 +1,5 @@
 {
-  "version": "1.1.59",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.59/Tagasulat_Setup_1.1.59.exe",
-  "notes": "Reliable session-end sync, plus fixes for changing the price mid auto-print and for arranged buyers who mine again."
+  "version": "1.1.60",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.60/Tagasulat_Setup_1.1.60.exe",
+  "notes": "Auto-print no longer freezes on a mid-countdown price change, arranged re-mines show the right quantity, and the Plan/subscription screens now let you view plans and subscribe yourself."
 }
