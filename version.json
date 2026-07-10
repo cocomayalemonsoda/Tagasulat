@@ -1,5 +1,5 @@
 {
   "version": "1.1.65",
   "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.65/Tagasulat_Setup_1.1.65.exe",
-  "notes": "v1.1.65 — Reliability fixes. Known buyers now correctly show as Old and Joy miners again (no more everyone showing "New"). Fixes carry-overs, session timer, mine-board sync, and after-live snapshots."
+  "notes": "v1.1.65 — Reliability fixes. Known buyers now correctly show as Old and Joy miners again (no more everyone showing 'New'). Fixes carry-overs, session timer, mine-board sync, and after-live snapshots."
 }
