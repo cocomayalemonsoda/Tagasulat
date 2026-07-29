@@ -1,5 +1,5 @@
 {
-  "version": "1.1.67",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.67/Tagasulat_Setup_1.1.67.exe",
-  "notes": "v1.1.67 — Easier printer setup + fixes. Connect a Bluetooth printer by tapping it from a list (no typing addresses), works with more printer models, and reconnects on its own. Emoji and fancy nicknames print correctly on labels and waybills. Waybill numbering fixed for cancelled checkouts. Plus a first-run setup guide, clearer settings, and a self-healing seller mine board. Rebuild recommended."
+  "version": "1.1.70",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.70/Tagasulat_Setup.exe",
+  "notes": "v1.1.70 — Carry-over across devices + reliability"
 }
