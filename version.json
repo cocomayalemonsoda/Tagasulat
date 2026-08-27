@@ -1,5 +1,5 @@
 {
-  "version": "1.1.74",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.74/Tagasulat_Setup.exe",
-  "notes": "🔑 Required update — sign-in fix, 🩺 Check my setup, 🖨 Waybill printer added to the setup checklist, 💾 Settings can no longer lie about saving, 🔎 Better logs for support"
+  "version": "1.1.75",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.75/Tagasulat_Setup.exe",
+  "notes": "v1.1.75 is a required update, and it matters most if you use a phone or tablet alongside the PC."
 }
