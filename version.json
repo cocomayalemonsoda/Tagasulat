@@ -1,5 +1,5 @@
 {
-  "version": "1.1.76",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.76/Tagasulat_Setup.exe",
-  "notes": "Token renewal timing, silent relogin, recovery"
+  "version": "1.1.77",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.77/Tagasulat_Setup.exe",
+  "notes": "v1.1.77 required update - it fixes the PC quietly losing touch with your phone about an hour into every live, which left prices out of step without any warning."
 }
