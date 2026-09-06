@@ -1,5 +1,5 @@
 {
-  "version": "1.1.80",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.80/Tagasulat_Setup.exe",
-  "notes": "v1.1.80 stops the app freezing when the server is unreachable — printing, starting and ending a live, and opening the app all keep working, and it should fix the duplicate labels."
+  "version": "1.1.81",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.81/Tagasulat_Setup.exe",
+  "notes": "v1.1.81 rewrites the printed summary so you can audit from the paper alone"
 }
