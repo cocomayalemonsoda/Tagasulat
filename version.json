@@ -1,5 +1,5 @@
 {
-  "version": "1.1.82",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.82/Tagasulat_Setup.exe",
-  "notes": "v1.1.82 makes the app open and keep selling during the kind of outage that hit on 7 September."
+  "version": "1.1.83",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.83/Tagasulat_Setup.exe",
+  "notes": "v1.1.83 stops the app calling TikTok thousands of times a day for nothing"
 }
