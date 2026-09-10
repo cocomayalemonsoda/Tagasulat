@@ -1,5 +1,5 @@
 {
-  "version": "1.1.83",
-  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.83/Tagasulat_Setup.exe",
-  "notes": "v1.1.83 stops the app calling TikTok thousands of times a day for nothing"
+  "version": "1.1.84",
+  "download_url": "https://github.com/cocomayalemonsoda/Tagasulat/releases/download/v1.1.84/Tagasulat_Setup.exe",
+  "notes": "v1.1.84 keeps the listener alive when TikTok's signing service has a bad day."
 }
