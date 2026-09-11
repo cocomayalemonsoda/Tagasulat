@@ -1,0 +1,5 @@
+{
+  "outage": false,
+  "message": "",
+  "_how": "Flip outage to true and commit. Every Mimasaur page reads this file within a minute — no Netlify build. The banner clears itself when the provider recovers; set this back to false whenever convenient. Leave message empty for the built-in wording."
+}
