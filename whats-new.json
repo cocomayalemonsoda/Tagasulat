@@ -1,0 +1,37 @@
+{
+  "_how": "Newest first. The dashboard shows the top 3. Fields: date (YYYY-MM-DD), where (phone | pc | both | web), title (one line, plain words), body (one or two sentences, optional), link (a page on the site, optional), link_label (optional). Commit here — no Netlify build needed. Write it the way you'd say it to a seller, not a developer.",
+  "items": [
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "Your printer reconnects by itself",
+      "body": "After a reload, or when you come back from the TikTok app, the printer card says Connecting… then Ready — no picker. If the printer is off when you tap Print, you get a plain message and it stays remembered.",
+      "link": "howto/recommended-printers.html",
+      "link_label": "Printer guide →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "both",
+      "title": "Every guide checked and rewritten",
+      "body": "All 53 how-to pages now match what the apps actually do, with separate steps for the phone and the PC. Fifteen of them were describing buttons that no longer exist.",
+      "link": "howto/index.html",
+      "link_label": "Open the guides →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "Need help? It's in Settings now",
+      "body": "A Need help? row at the bottom of Settings: message us on Messenger, or send us your store, live and board details in one tap so we can look right away.",
+      "link": "howto/troubleshooting-pins.html",
+      "link_label": "Pins not showing up? →"
+    },
+    {
+      "date": "2026-09-11",
+      "where": "pc",
+      "title": "Tagasulat 1.1.85: auto-print delay 0 really means 0",
+      "body": "Set the countdown to 0 and the label prints the instant the pin lands. The app also can no longer swap in an older TikTok listener by mistake.",
+      "link": "howto/auto-print-on-pin.html",
+      "link_label": "Auto-print guide →"
+    }
+  ]
+}
