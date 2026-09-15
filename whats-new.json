@@ -1,6 +1,14 @@
 {
-  "_how": "Newest first. The dashboard shows the top 3. Fields: date (YYYY-MM-DD), where (phone | pc | both | web), title (one line, plain words), body (one or two sentences, optional), link (a page on the site, optional), link_label (optional). Commit here — no Netlify build needed. Write it the way you'd say it to a seller, not a developer.",
+  "_how": "Newest first. The dashboard rolls through these, newest at the top. Fields: date (YYYY-MM-DD), where (phone | pc | both | web), title (one line, plain words), body (one or two sentences, optional), link (a page on the site, optional), link_label (optional). Commit here — no Netlify build needed. Write it the way you'd say it to a seller, not a developer.",
   "items": [
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "Printing needs Google Chrome — the app now says so",
+      "body": "If you opened Mimasaur inside Facebook or Messenger, printing can't work there. The printer card now shows an Open in Chrome button that takes you to the same page in Chrome, and the login page reminds you before you sign in.",
+      "link": "howto/pc-or-phone.html",
+      "link_label": "PC or phone? →"
+    },
     {
       "date": "2026-09-25",
       "where": "phone",
@@ -11,9 +19,41 @@
     },
     {
       "date": "2026-09-25",
+      "where": "web",
+      "title": "Sweldo: know who clocked in without opening the app",
+      "body": "Turn on Clock-in alerts in Sweldo → Settings and get a notification on your phone or an email each time someone clocks in — one card per day that keeps a running list. Free, and you choose which.",
+      "link": "howto/sweldo-clockin-alerts.html",
+      "link_label": "How to turn it on →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "Waybills: pick which live the names come from",
+      "body": "The Write Waybills page now asks which live the waybills are for, and every After-Live card has a Write waybills button that opens it already on that live. Approving as \"checked out as different account\" now asks who the real buyer is, so her name is what gets printed.",
+      "link": "howto/waybill-pdf.html",
+      "link_label": "Waybill guide →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "Nothing lost when our servers have a bad day",
+      "body": "Everything you do on the live page — mines, re-lives, blacklists, voids, Keep, pasted orders, even ending the live — is saved on your phone and uploads by itself when we're back. The banner tells you how many records are waiting.",
+      "link": "howto/troubleshooting-pins.html",
+      "link_label": "What still works during an outage →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "both",
+      "title": "The Windows app is the one we recommend",
+      "body": "Your apps now leads with Tagasulat for Windows and a Which one is for me? comparison. The phone version is for lives away from the PC, or as the Seller Screen next to it.",
+      "link": "howto/pc-or-phone.html",
+      "link_label": "Which one is for me? →"
+    },
+    {
+      "date": "2026-09-25",
       "where": "both",
       "title": "Every guide checked and rewritten",
-      "body": "All 53 how-to pages now match what the apps actually do, with separate steps for the phone and the PC. Fifteen of them were describing buttons that no longer exist.",
+      "body": "All 54 how-to pages now match what the apps actually do, with separate steps for the phone and the PC. Fifteen of them were describing buttons that no longer exist.",
       "link": "howto/index.html",
       "link_label": "Open the guides →"
     },
