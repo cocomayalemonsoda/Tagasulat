@@ -3,6 +3,62 @@
   "items": [
     {
       "date": "2026-09-25",
+      "where": "both",
+      "title": "A packed parcel now counts as paid",
+      "body": "When a parcel is scanned with Scan to Pack, that buyer is settled — she stops coming back as a carry-over and shows as a returning buyer next time. It works mid-live too: she leaves the board by herself a minute or two after the scan. If she also mined again tonight, only the earlier parcel is settled and tonight's items stay.",
+      "link": "howto/no-checkout.html",
+      "link_label": "Buyers who didn't check out →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "both",
+      "title": "Nobody gets forgotten for 14 days",
+      "body": "Every buyer who mined and never checked out comes back to your next live as a carry-over — not just from last night, but from any live in the last two weeks, each tagged with her date. A live you closed without tapping End Live is rebuilt too, so its buyers aren't lost.",
+      "link": "howto/no-checkout.html",
+      "link_label": "How carry-overs work →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "both",
+      "title": "Paste a name, and it prints",
+      "body": "When pins stop arriving, you don't have to type. In TikTok tap the buyer, tap her name to copy it, then tap the small clipboard in the username box — the name, her nickname and the label all happen in one tap. On the PC it's F4 from any window. Three moves per buyer: profile, copy, paste.",
+      "link": "howto/troubleshooting-pins.html",
+      "link_label": "When pins don't arrive →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "After-Live fits your phone now",
+      "body": "The cards are about half as tall, so you see more buyers without scrolling. A mismatch says how far off the order is in pesos — Kulang ng ₱98 si miner — instead of a line of numbers to work out. Pasting your Seller Center orders is one tap: it matches them and tells you what it did.",
+      "link": "howto/after-live.html",
+      "link_label": "The morning after →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "phone",
+      "title": "Clear a whole messy week in one tap",
+      "body": "After-Live has a new button that forgets every open buyer from the days before your last live — the ones that would otherwise keep arriving as carry-overs. Last night is always left alone, because that's the night you're there to work through.",
+      "link": "howto/after-live.html",
+      "link_label": "The morning after →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "web",
+      "title": "Forgot your password?",
+      "body": "There's a Forgot password link on the sign-in page now. We email you a link, you pick a new password, and you're back in — no need to message us.",
+      "link": "login.html",
+      "link_label": "Sign in →"
+    },
+    {
+      "date": "2026-09-25",
+      "where": "web",
+      "title": "Every plan page tells the truth",
+      "body": "We went through the plan grid line by line so what you see is exactly what each plan does. Keep Items is part of Basic. Bundle promos and Lock price are Pro. Pocket shows no new/returning badge at all, because those come from the morning-after step that Pocket doesn't have.",
+      "link": "plans.html",
+      "link_label": "See plans →"
+    },
+    {
+      "date": "2026-09-25",
       "where": "phone",
       "title": "Printing needs Google Chrome — the app now says so",
       "body": "If you opened Mimasaur inside Facebook or Messenger, printing can't work there. The printer card now shows an Open in Chrome button that takes you to the same page in Chrome, and the login page reminds you before you sign in.",
