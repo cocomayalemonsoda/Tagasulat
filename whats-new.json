@@ -20,14 +20,6 @@
     {
       "date": "2026-09-23",
       "where": "both",
-      "title": "Nobody gets forgotten for 14 days",
-      "body": "Every buyer who mined and never checked out comes back to your next live as a carry-over — not just from last night, but from any live in the last two weeks, each tagged with her date. A live you closed without tapping End Live is rebuilt too, so its buyers aren't lost.",
-      "link": "howto/no-checkout.html",
-      "link_label": "How carry-overs work →"
-    },
-    {
-      "date": "2026-09-23",
-      "where": "both",
       "title": "Paste a name, and it prints",
       "body": "When pins stop arriving, you don't have to type. In TikTok tap the buyer, tap her name to copy it, then tap the small clipboard in the username box — the name, her nickname and the label all happen in one tap. On the PC it's F4 from any window. Three moves per buyer: profile, copy, paste.",
       "link": "howto/troubleshooting-pins.html",
@@ -35,17 +27,25 @@
     },
     {
       "date": "2026-09-23",
-      "where": "phone",
-      "title": "After-Live fits your phone now",
-      "body": "The cards are about half as tall, so you see more buyers without scrolling. A mismatch says how far off the order is in pesos — Kulang ng ₱98 si miner — instead of a line of numbers to work out. Pasting your Seller Center orders is one tap: it matches them and tells you what it did.",
-      "link": "howto/after-live.html",
-      "link_label": "The morning after →"
+      "where": "both",
+      "title": "Nobody gets forgotten for 14 days",
+      "body": "Every buyer who mined and never checked out comes back to your next live as a carry-over — not just from last night, but from any live in the last two weeks, each tagged with her date. A live you closed without tapping End Live is rebuilt too, so its buyers aren't lost.",
+      "link": "howto/no-checkout.html",
+      "link_label": "How carry-overs work →"
     },
     {
       "date": "2026-09-23",
       "where": "phone",
-      "title": "Clear a whole messy week in one tap",
-      "body": "After-Live has a new button that forgets every open buyer from the days before your last live — the ones that would otherwise keep arriving as carry-overs. Last night is always left alone, because that's the night you're there to work through.",
+      "title": "Print anything on your labels",
+      "body": "New in the menu: Free Print. Type a size, a name, a note — it prints on the same stickers as your buyer labels, as big as the sticker allows. Enter prints and the cursor stays put, so you can type the next one straight away, and what you printed becomes a one-tap button for next time. Basic and Pro.",
+      "link": "free-print.html",
+      "link_label": "Open Free Print →"
+    },
+    {
+      "date": "2026-09-23",
+      "where": "phone",
+      "title": "After-Live fits your phone now",
+      "body": "The cards are about half as tall, so you see more buyers without scrolling. A mismatch says how far off the order is in pesos — Kulang ng ₱98 si miner — instead of a line of numbers to work out. Pasting your Seller Center orders is one tap. And a new button forgets every open buyer from the days before your last live, so a messy week clears in one go.",
       "link": "howto/after-live.html",
       "link_label": "The morning after →"
     },
