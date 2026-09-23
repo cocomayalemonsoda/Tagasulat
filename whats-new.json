@@ -2,7 +2,15 @@
   "_how": "Newest first. The dashboard rolls through these, newest at the top. Fields: date (YYYY-MM-DD), where (phone | pc | both | web), title (one line, plain words), body (one or two sentences, optional), link (a page on the site, optional), link_label (optional). Commit here — no Netlify build needed. Write it the way you'd say it to a seller, not a developer.",
   "items": [
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
+      "where": "pc",
+      "title": "Tagasulat 1.1.86 for Windows",
+      "body": "Paste a buyer's name and it prints — press F4 from any window when pins stop arriving. A packed parcel counts as paid, so she stops coming back. Buyers carry over from the last 14 days, not just last night. Forgiving a joy miner on your phone now reaches the PC, and a buyer taken off the RTS list clears without a restart. Update from inside the app.",
+      "link": "howto/troubleshooting-pins.html",
+      "link_label": "When pins don't arrive →"
+    },
+    {
+      "date": "2026-09-23",
       "where": "both",
       "title": "A packed parcel now counts as paid",
       "body": "When a parcel is scanned with Scan to Pack, that buyer is settled — she stops coming back as a carry-over and shows as a returning buyer next time. It works mid-live too: she leaves the board by herself a minute or two after the scan. If she also mined again tonight, only the earlier parcel is settled and tonight's items stay.",
@@ -10,7 +18,7 @@
       "link_label": "Buyers who didn't check out →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "both",
       "title": "Nobody gets forgotten for 14 days",
       "body": "Every buyer who mined and never checked out comes back to your next live as a carry-over — not just from last night, but from any live in the last two weeks, each tagged with her date. A live you closed without tapping End Live is rebuilt too, so its buyers aren't lost.",
@@ -18,7 +26,7 @@
       "link_label": "How carry-overs work →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "both",
       "title": "Paste a name, and it prints",
       "body": "When pins stop arriving, you don't have to type. In TikTok tap the buyer, tap her name to copy it, then tap the small clipboard in the username box — the name, her nickname and the label all happen in one tap. On the PC it's F4 from any window. Three moves per buyer: profile, copy, paste.",
@@ -26,7 +34,7 @@
       "link_label": "When pins don't arrive →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "After-Live fits your phone now",
       "body": "The cards are about half as tall, so you see more buyers without scrolling. A mismatch says how far off the order is in pesos — Kulang ng ₱98 si miner — instead of a line of numbers to work out. Pasting your Seller Center orders is one tap: it matches them and tells you what it did.",
@@ -34,7 +42,7 @@
       "link_label": "The morning after →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "Clear a whole messy week in one tap",
       "body": "After-Live has a new button that forgets every open buyer from the days before your last live — the ones that would otherwise keep arriving as carry-overs. Last night is always left alone, because that's the night you're there to work through.",
@@ -42,7 +50,7 @@
       "link_label": "The morning after →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "web",
       "title": "Forgot your password?",
       "body": "There's a Forgot password link on the sign-in page now. We email you a link, you pick a new password, and you're back in — no need to message us.",
@@ -50,7 +58,7 @@
       "link_label": "Sign in →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "web",
       "title": "Every plan page tells the truth",
       "body": "We went through the plan grid line by line so what you see is exactly what each plan does. Keep Items is part of Basic. Bundle promos and Lock price are Pro. Pocket shows no new/returning badge at all, because those come from the morning-after step that Pocket doesn't have.",
@@ -58,7 +66,7 @@
       "link_label": "See plans →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "Printing needs Google Chrome — the app now says so",
       "body": "If you opened Mimasaur inside Facebook or Messenger, printing can't work there. The printer card now shows an Open in Chrome button that takes you to the same page in Chrome, and the login page reminds you before you sign in.",
@@ -66,7 +74,7 @@
       "link_label": "PC or phone? →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "Your printer reconnects by itself",
       "body": "After a reload, or when you come back from the TikTok app, the printer card says Connecting… then Ready — no picker. If the printer is off when you tap Print, you get a plain message and it stays remembered.",
@@ -74,7 +82,7 @@
       "link_label": "Printer guide →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "web",
       "title": "Sweldo: know who clocked in without opening the app",
       "body": "Turn on Clock-in alerts in Sweldo → Settings and get a notification on your phone or an email each time someone clocks in — one card per day that keeps a running list. Free, and you choose which.",
@@ -82,7 +90,7 @@
       "link_label": "How to turn it on →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "Waybills: pick which live the names come from",
       "body": "The Write Waybills page now asks which live the waybills are for, and every After-Live card has a Write waybills button that opens it already on that live. Approving as \"checked out as different account\" now asks who the real buyer is, so her name is what gets printed.",
@@ -90,7 +98,7 @@
       "link_label": "Waybill guide →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "Nothing lost when our servers have a bad day",
       "body": "Everything you do on the live page — mines, re-lives, blacklists, voids, Keep, pasted orders, even ending the live — is saved on your phone and uploads by itself when we're back. The banner tells you how many records are waiting.",
@@ -98,7 +106,7 @@
       "link_label": "What still works during an outage →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "both",
       "title": "The Windows app is the one we recommend",
       "body": "Your apps now leads with Tagasulat for Windows and a Which one is for me? comparison. The phone version is for lives away from the PC, or as the Seller Screen next to it.",
@@ -106,7 +114,7 @@
       "link_label": "Which one is for me? →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "both",
       "title": "Every guide checked and rewritten",
       "body": "All 54 how-to pages now match what the apps actually do, with separate steps for the phone and the PC. Fifteen of them were describing buttons that no longer exist.",
@@ -114,7 +122,7 @@
       "link_label": "Open the guides →"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-23",
       "where": "phone",
       "title": "Need help? It's in Settings now",
       "body": "A Need help? row at the bottom of Settings: message us on Messenger, or send us your store, live and board details in one tap so we can look right away.",
