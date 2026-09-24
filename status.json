@@ -1,5 +1,16 @@
 {
   "outage": false,
   "message": "",
-  "_how": "Flip outage to true and commit. Every Mimasaur page reads this file within a minute — no Netlify build. The banner clears itself when the provider recovers; set this back to false whenever convenient. Leave message empty for the built-in wording."
+  "announcement": null,
+  "_how": "Flip outage to true and commit. Every Mimasaur page reads this file within a minute — no Netlify build. The banner clears itself when the provider recovers; set this back to false whenever convenient. Leave message empty for the built-in wording.",
+  "_announcement_how": "To show a card at the top of every dashboard, replace null with the object below and commit. Live within a minute, no build. Set it back to null (or let 'until' pass) to remove it. A new 'id' shows it again to people who dismissed it.",
+  "_announcement_example": {
+    "id": "payments-open-2026-10",
+    "text": "💳 Paid plans open on 1 October. Your free trial keeps running until {trial_ends} ({days_left} days left). When you pay, your 30 days are ADDED on top of the days you still have — paying early never loses you a day.",
+    "until": "2026-10-15",
+    "audience": "trial",
+    "link": "plans.html",
+    "link_text": "See plans"
+  },
+  "_announcement_fields": "text: plain words, may use {trial_ends} {paid_until} {days_left} — the reader's own dates. until: YYYY-MM-DD, hidden after that day (Manila). audience: all (default) · trial · paid. link: a Mimasaur page like plans.html or an https:// address; link_text: the words on it. Both optional."
 }
