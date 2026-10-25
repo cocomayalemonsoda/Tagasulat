@@ -3,6 +3,14 @@
   "_the_title_is_all_she_sees": "ON SCREEN THE DASHBOARD RENDERS ONLY: the Phone/PC pill, the TITLE, the link, and the date. It does NOT render body. And .wn-text is overflow:hidden with an ellipsis on a 1.5-line strip, so a long title is CUT OFF, not wrapped — keep titles under about 50 characters. Body is kept as our own record of what the entry was about; write one short sentence, not a paragraph. Only the newest few are shown (WN_MAX in dashboard.html), so an entry further down the list is invisible until newer ones push past it.",
   "items": [
     {
+      "date": "2026-10-25",
+      "where": "pc",
+      "title": "Tagasulat 1.1.93 for Windows",
+      "body": "Four things that went wrong quietly",
+      "link": "howto/after-live.html",
+      "link_label": "After Live →"
+    },
+    {
       "date": "2026-10-13",
       "where": "both",
       "title": "\"Ilan na po?\" — she asks, her card answers",
@@ -41,22 +49,6 @@
       "body": "Picking your printer from the list now tries up to three times before giving up. And a new Reconnect button in Settings goes straight to your saved printer with no scan — try it before Find printer.",
       "link": "howto/recommended-printers.html",
       "link_label": "Printers →"
-    },
-    {
-      "date": "2026-10-10",
-      "where": "both",
-      "title": "Type any price with the ₱… button",
-      "body": "For the item that is not one of your four buttons. Per buyer, on the board and on the companion. Lock, Grab and Steal add nothing to it.",
-      "link": "howto/adding-prices.html",
-      "link_label": "Your price buttons →"
-    },
-    {
-      "date": "2026-10-10",
-      "where": "both",
-      "title": "Her running total on every mine card",
-      "body": "@bea · ₱247 on the handle line. The tiers above still say 49x2, 99x1 — the number underneath is what she actually owes.",
-      "link": "howto/mine-board.html",
-      "link_label": "The mine board →"
     }
   ]
 }
