@@ -1,52 +1,35 @@
 {
   "_how": "Newest first. The dashboard rolls through these, newest at the top. Fields: date (YYYY-MM-DD), where (phone | pc | both | web), title (one line, plain words), body (optional), link (a page on the site, optional), link_label (optional). Commit here — no Netlify build needed. Write it the way you'd say it to a seller, not a developer.",
   "_the_title_is_all_she_sees": "ON SCREEN THE DASHBOARD RENDERS ONLY: the Phone/PC pill, the TITLE, the link, and the date. It does NOT render body. And .wn-text is overflow:hidden with an ellipsis on a 1.5-line strip, so a long title is CUT OFF, not wrapped — keep titles under about 50 characters. Body is kept as our own record of what the entry was about; write one short sentence, not a paragraph. Only the newest few are shown (WN_MAX in dashboard.html), so an entry further down the list is invisible until newer ones push past it.",
-  "items": [
+  "_why_it_is_empty": "Cleared 2026-11-12 on Rain's instruction — every entry was from October and the oldest was three weeks stale. An empty items[] is SAFE: dashboard.html returns early on a zero-length list and the whole 'What's new' section stays hidden, so sellers see nothing rather than something old. The next entries are drafted below in _queued and are INVISIBLE to sellers, because only `items` is ever read. Move them into items on the day each one actually ships.",
+
+  "items": [],
+
+  "_queued": [
     {
-      "date": "2026-10-25",
-      "where": "pc",
-      "title": "Tagasulat 1.1.93 for Windows",
-      "body": "Four things that went wrong quietly",
-      "link": "howto/after-live.html",
-      "link_label": "After Live →"
-    },
-    {
-      "date": "2026-10-13",
-      "where": "both",
-      "title": "\"Ilan na po?\" — she asks, her card answers",
-      "body": "When a buyer types ilan na po or magkano na ako, a tag appears on her mine card. Click it once you have told her and it goes.",
-      "link": "howto/buyer-phrases.html",
-      "link_label": "What buyers can type →"
-    },
-    {
-      "date": "2026-10-13",
-      "where": "both",
-      "title": "\"Pa 2nd mine po\" — a backup sticker",
-      "body": "One backup per ordinary mine, first come first served. It arrives in your pin queue and behaves like a pin.",
-      "link": "howto/buyer-phrases.html",
-      "link_label": "What buyers can type →"
-    },
-    {
-      "date": "2026-10-13",
-      "where": "pc",
-      "title": "Tagasulat 1.1.92 for Windows",
-      "body": "For shops with long buyer lists: a buyer who read JOY on your phone but NEW on the PC now agrees on both, and the Do Not Ship address check reads your whole list. Update from inside the app.",
-      "link": "howto/joy-miner.html",
-      "link_label": "Joy miners →"
-    },
-    {
-      "date": "2026-10-13",
-      "where": "pc",
-      "title": "Keep takes her off the board now",
-      "body": "A kept buyer used to stay on the mine board until a restart, and she was counted in your End-Live summary and your CSV. Fixed, and she no longer comes back as a carry-over too.",
+      "_ships_with": "the 16 Nov web deploy — do NOT move this up before the deploy is live",
+      "date": "2026-11-16",
+      "where": "phone",
+      "title": "A kept buyer counts when she pays",
+      "body": "Mark a keep Paid and it counts toward that seller's quota for the night she bought it, even days later. You no longer need the PC open for it to count.",
       "link": "howto/keep-items.html",
       "link_label": "Keep items →"
     },
     {
-      "date": "2026-10-13",
-      "where": "pc",
-      "title": "The printer tries again, and 🔄 Reconnect",
-      "body": "Picking your printer from the list now tries up to three times before giving up. And a new Reconnect button in Settings goes straight to your saved printer with no scan — try it before Find printer.",
+      "_ships_with": "the 16 Nov web deploy",
+      "date": "2026-11-16",
+      "where": "phone",
+      "title": "Your live now says who is selling",
+      "body": "If your store has staff on Sweldo, the top bar shows which seller tonight's mines are counting for, and you can tap it to change her mid-live without walking to the kiosk.",
+      "link": "howto/sweldo.html",
+      "link_label": "Sweldo →"
+    },
+    {
+      "_ships_with": "the 16 Nov web deploy",
+      "date": "2026-11-16",
+      "where": "phone",
+      "title": "Labels that print upside down",
+      "body": "There is a switch for it in Printer settings now, and the Test print button obeys it — it did not before, which is why turning it on looked like it did nothing.",
       "link": "howto/recommended-printers.html",
       "link_label": "Printers →"
     }
